@@ -1,3 +1,3 @@
 
- +# JavaRush-tasks
- +Tasks I fulfilled during my studying on JavaRush course
+ +# JavaRush-tasks/level21/task 2113
+ +Small text game about horse race
