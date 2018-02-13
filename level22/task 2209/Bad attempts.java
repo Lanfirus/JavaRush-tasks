@@ -1,5 +1,7 @@
 /*
 Bad attempts
+Not needed for the program
+Just a reminder of previous tries to get intelligent processing of chains
 
 
   public static StringBuilder buildStringSet1(List<String> list, int indexOfStart, int indexOfEnd, boolean singleKey) {
